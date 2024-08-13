@@ -1,0 +1,11 @@
+#इसके बाद क्षेत्रों का वर्णन स्थलरूपों के वितरण, जनसंख्या, मकानों के प्रकार और कृषि के आधार पर किया जाता है ।
+kRewra_5,sWalarUpa_1,viwarana_1,janasaMKyA_1,makAna_1,prakAra_7,kqRi_1,AXAra_1,varNana+kara_1-yA_jAwA_hE_1
+1,2,3,4,5,6,7,8,10
+,,,,,,,,
+pl,pl,,,pl,,,,
+4:r6,5:r6,11:k2,11:k7,8:r6,11:k7,10:r6,11:k7,0:main
+,,,,,,,,Geo_nios_1ch_0039.11:uwwarakAla
+,,,,,,,,
+,,,,,,,,
+%pass_affirmative
+*conj:[3,4,6,8]

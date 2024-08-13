@@ -1,0 +1,11 @@
+#यह महासागरीय तल की गहराइयों, धाराओं, प्रवाल भित्तियों और महाद्वीपीय विस्थापन आदि से संबंधित महासागरीय घटकों का अध्ययन करता है ।
+$wyax,mahAsAgarIya_1,wala_2,gaharAI_1,XArA_1,pravAla_1+Biwwi_1,mahAxvIpIya_1,visWApana_1,Axi_1,saMbaMXiwa_1,mahAsAgarIya_1,Gataka_1,aXyayana+kara_2-wA_hE_1
+1,2,3,4,5,6,8,9,10,11,12,13,14
+,,,,,,,,,,,,
+,,,pl,pl,pl,,,,,,pl,
+14:k1,3:mod,4:r6,13:r6,13:r6,13:r6,9:mod,13:r6,13:r6,13:mod,13:mod,14:k2,0:main
+Geo_nios_1ch_0146.1:coref,,,,,,,,,,,,
+proximal,,,,,,,,,,,,
+,,,,,,,,,,,,
+%affirmative
+*compound:[6.1/6.2:r6] conj:[4,5,6,9,10]

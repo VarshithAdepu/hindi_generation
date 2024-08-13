@@ -1,0 +1,11 @@
+#’’मानचित्र’’ विज्ञान मानचित्र व आरेख निर्माण करने का प्रयोगात्मक अध्ययन है ।
+mAnaciwra_1+vijFAna_1,mAnaciwra_1,AreKa_1,nirmANa+kara_1,prayogAwmaka_1,aXyayana_1,hE_1-pres
+1,2,3,4,5,6,7
+,,,,,,
+,,,,,,
+7:k1,4:k2,4:k2,6:r6,6:mod,7:k1s,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+%affirmative
+*compound:[1.1/1.2:r6] conj:[2,3]

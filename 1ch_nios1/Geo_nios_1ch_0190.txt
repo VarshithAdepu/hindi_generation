@@ -1,0 +1,11 @@
+#प्रादेशिक भूगोल भी अन्य शाखाओं में विभाजित है जैसे वृहद, मध्यम और सूक्ष्म ।
+prAxeSika_1,BUgola_1,anya_1,SAKA_1,viBAjiwa_1,hE_1-pres,vqhaxa_3,maXyama_10,sUkRma_13
+1,2,3,4,5,6,7,8,9
+,,,,,,,,
+,,,pl,,,,,
+2:mod,6:k1,4:mod,6:k7,6:k1s,0:main,4:re,4:re,4:re
+,,,,,,,,
+,BI_1,,,,,,,
+,,,,,,,,
+%affirmative
+*conj:[7,8,9]

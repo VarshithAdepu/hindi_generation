@@ -1,0 +1,11 @@
+#भौतिक भूगोल पृथ्वी की व्यवस्था से उत्पन्न प्राकृतिक पर्यावरण का अध्ययन करता है ।
+BOwika_2,BUgola_1,pqWvI_1,vyavasWA_2,uwpanna_1,prAkqwika_1,paryAvaraNa_1,aXyayana+kara_2-wA_hE_1
+8,1,2,3,4,5,6,7
+,,,,,,,
+,,,,,,,
+1:mod,7:k1,3:r6,4:k5,6:rbks,6:mod,7:k2,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+%affirmative
+*nil

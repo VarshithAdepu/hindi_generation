@@ -1,0 +1,13 @@
+#यह ज्ञान को विस्तृत करने का प्रयास करता है ।
+$wyax,jFAna_4,viswqwa+kara_1,prayAsa+kara_1-wA_hE_1
+1,2,3,4
+,,,
+,,,
+4:k1,3:k2,4:k2,0:main
+Geo_nios_1ch_0001.2:coref,,,
+proximal,,,
+,,,
+%affirmative
+*nil
+
+यह (पाठ) ज्ञान विस्तृत करने का प्रयास करता है |

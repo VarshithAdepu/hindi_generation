@@ -1,0 +1,11 @@
+#कि यह यहाँ क्यों है?
+$wyax,$yax,$kim,hE_1-pres
+1,4,2,3
+,,,
+,,,
+3:k1,3:k7p,3:rt,0:main
+,Geo_nios_1ch_0037b.1:coref,,
+proximal,,,
+,,,
+%affirmative
+*nil

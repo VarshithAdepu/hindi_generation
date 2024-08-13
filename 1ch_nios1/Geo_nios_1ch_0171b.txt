@@ -1,0 +1,11 @@
+#भूगोल विविध प्रकार की उन परिघटनाओं का भी अध्ययन करता है, जिनका अध्ययन अन्य विज्ञानों में भी शामिल होता है ।
+BUgola_1,viviXa_1,prakAra_1,$wyax,pariGatanA_1,aXyayana+kara_2-wA_hE_1,$yax,aXyayana_1,anya_2,vijFAna_1,SAmila+ho_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,
+,,,,pl,,,,,pl,
+6:k1,3:mod,5:r6,5:dem,6:k2,0:main,8:r6,11:k1,10:mod,11:k7,5:rcdelim
+,,,,,,5:coref,,,,
+,,,distal,BI_1,,,,,BI_1,
+,,,,,,,,,,
+%affirmative
+*nil

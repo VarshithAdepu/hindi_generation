@@ -1,0 +1,11 @@
+#प्रारंभिक विद्वान वर्णनात्मक भूगोलवेत्ता थे ।
+prAraMBika_6,vixvAna_6,varNanAwmaka_1+BUgolavewwA_1,hE_1-past
+1,2,4,5
+,anim,anim,
+,pl,,
+2:mod,5:k1,5:k1s,0:main
+,,,
+,,,
+,,,
+%affirmative
+*compound:[4.1/4.2:samAnAXikaraNa]

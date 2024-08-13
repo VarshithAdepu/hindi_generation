@@ -1,0 +1,11 @@
+#भूगोल एक समग्र और अन्तर्सम्बन्धित क्षेत्र का अध्ययन है जो कि विभिन्न स्तरों पर स्थानिक संरचनाओं में होने वाले परिवर्तनों के अध्ययन से जुडा हुआ है ।
+BUgola_1,eka_2,samagra_1,anwarsambanXiwa_1,kRewra_1,aXyayana_1,hE_1-pres,$yax,viBinna_1,swara_2,sWAnika_2,saMracanA_1,ho_1,parivarwana_1,aXyayana_1,juda_1-yA_huA_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+,,,,,,,,,,,,,,,
+,,,,,,,,,pl,,pl,,pl,,
+7:k1,5:quant,5:mod,5:mod,7:k2,7:k1s,0:main,16:k1,10:mod,13:k7,12:mod,13:k7,14:mod,15:r6,16:k3,1:rcelab
+,,,,,,,1:coref,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+%affirmative
+*conj:[3,4]

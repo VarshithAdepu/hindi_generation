@@ -1,0 +1,11 @@
+#यह जनसंख्या के विविध पक्षों जैसे जनसंख्या वितरण, घनत्व, संघटन, प्रजनन क्षमता, मर्त्यता, प्रवास आदि का अध्ययन करता है।
+$wyax,janasaMKyA_1,viviXa_1,pakRa_1,janasaMKyA_1+viwaraNa_1,janasaMKyA_1+Ganawva_1,janasaMKyA_1+saMGatana_1,janasaMKyA_1+prajanana_1+kRamawA_1,janasaMKyA_1+marwyawA_1,janasaMKyA_1+pravAsa_1,Axi_1,aXyayana+kara_1-wA_hE_1
+1,2,3,4,9,10,11,12,5,7,13,8
+,,,,,,,,,,,
+,,,,,,,,,,,
+8:k1,4:r6,4:mod,8:k2,4:re,4:re,4:re,4:re,4:re,4:re,4:re,0:main
+Geo_nios_1ch_0163T.1:coref,,,,,,,,,Axi,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+%affirmative
+*compound:[9.1/9.2:r6] compound:[10.1/10.2:r6] compound:[5.1/5.2:r6] compound:[7.1/7.2:r6]

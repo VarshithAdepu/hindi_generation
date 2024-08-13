@@ -1,0 +1,11 @@
+#आजकल, पृथ्वी को बेहतर ढंग से समझने के लिए भूगोलवेत्ता, अभियंता, पर्यावरण वैज्ञानिक, नगर योजनाकार, सामाजिक वैज्ञानिक तथा अन्य लोग भी भौगोलिक सूचना तंत्रों का प्रयोग सीख रहे हैं ।
+Ajakala_1,pqWvI_1,behawara_1,DaMga_1,samaJa_12,BUgolvewwA_1,aBiyMwA_1,paryAvaraNa_2+vEjFAnika_1,nagara_1+yojnakAr_1,sAmAjika_1,vEjFAnika_1,anya_1,loga_1,BOgolika_1+sUcanA_1+waMwra_1,prayoga_2,sIKa_6-0_rahA_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+,,,,,anim,anim,anim,anim,,anim,,anim,,,
+,,,,,pl,pl,pl,pl,,pl,,pl,pl,,
+16:k7t,5:k2,4:mod,5:krvn,16:rt,16:k1,16:k1,16:k1,16:k1,12:mod,16:k1,13:mod,16:k1,15:r6,16:k2,0:main
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,BI_2,,,
+,,,,,,,,,,,,,,,
+%affirmative
+*conj:[6,7,8,9,11,13] compound:[8.1/8.2:r6] compound:[9.1/9.2:r6] compound:[15.1/15.2:samAnAXikaraNa] compound:[15.2/15.3:r6]

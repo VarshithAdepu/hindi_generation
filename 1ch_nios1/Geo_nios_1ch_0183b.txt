@@ -1,0 +1,11 @@
+# कि कोई क्षेत्र कैसे और क्यों एक दूसरे से अलग है ।
+koi_1,kRewra_5,$kim,$kim,eka+xUsarA,alaga_7,hE_1-pres
+1,2,3,4,5,6,7
+,,,,,,
+,,,,,,
+2:quant,7:k1,7:krvn,7:rh,7:k5,7:k1s,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+%affirmative
+*nil

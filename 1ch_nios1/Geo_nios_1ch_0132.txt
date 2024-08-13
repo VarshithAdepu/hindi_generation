@@ -1,0 +1,11 @@
+#स्थानिक विश्लेषण के अलावा भौगोलिक अध्ययनों में गुच्छ विश्लेषण और भेदमूलक विश्लेषण भी शामिल है ।
+sWAnika_2,viSleRaNa_1,BOgolika_1,aXyayana_1,gucCa_2,viSleRaNa_1,BexamUlaka_1,viSkeRaNa_1,SAmAli_1,hE_1-pres
+1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,
+,,,pl,,,,,,
+2:mod,10:rasneg,4:mod,10:k7,6:mod,10:k1,8:mod,10:k1,10:k1s,0:main
+,,,,,,,,,
+,,,,,,,BI_1,,
+,,,,,,,,,
+%affirmative
+*conj:[6,8]

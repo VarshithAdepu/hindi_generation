@@ -1,0 +1,11 @@
+#और वह उसकी अध्ययन करता है |
+$wyax,$wyax,aXyayana+kara_2-wA_hE_1
+1,2,3
+,,
+,,
+3:k1,3:k2,0:main
+Geo_nios_1ch_0140a.2:coref,Geo_nios_1ch_0140a.4:coref,Geo_nios_1ch_0140a.5:samuccaya
+distal,proximal,
+,,
+%affirmative
+*nil

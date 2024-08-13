@@ -1,0 +1,11 @@
+#Geo ‘‘पृथ्वी’’ और Graphy ‘‘वर्णन करना’ भूगोल का शाब्दिक अर्थ है, जो पृथ्वी के धरातलीय सतहों का वर्णन करता है ।
+^Geo_1,pqWvI_1,^Graphy_1,varNana+kara_1,BUgola_1,SAbxika_1,arWa_1,hE_1-pres,$yax,pqWvI_1,XarAwalIya_1,sawaha_1,varNana+kara_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13
+,place,,,,,,,,,,,
+,,,,,,,,,,,pl,
+2:rs,8:k1,4:rs,8:k1,7:r6,7:mod,8:k1s,0:main,13:k1,12:r6,12:mod,13:k2,8:rcelab
+,,,,,,,,8:coref,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+%affirmative
+*conj:[2,4]

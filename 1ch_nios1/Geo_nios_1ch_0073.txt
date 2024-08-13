@@ -1,0 +1,11 @@
+#भूगोल ने आज विज्ञान का दर्जा प्राप्त कर लिया है, जो पृथ्वी तल पर उपस्थित विविध प्राकृतिक और सांस्कृतिक रूपों की व्याख्या करता है ।
+BUgola_1,Aja_1,vijFAna_1,xarjA_1,prApwa+kara_1-yA_hE_1,$yax,pqWvI_1+wala_1,upasWiwa_1,viviXa_1,prAkqwika_1,sAMskqwika_1,rUpa_1,vyAKyA+kara_2-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,,,,,,,,,,
+,,,,,,,,,,,pl,
+5:k1,5:k7t,4:r6,5:k2,0:main,13:k1,13:k7p,12:mod,12:mod,12:mod,12:mod,13:k2,1:rcelab
+,,,,,1:coref,,,,,,,
+,,,,[shade:le_1],,,,,,,,
+,,,,,,,,,,,,
+%affirmative
+*compound:[7.1/7.2:r6] conj:[10,11]

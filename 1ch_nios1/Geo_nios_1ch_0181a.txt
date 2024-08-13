@@ -1,0 +1,11 @@
+#हालाँकि यह आज भी भूगोल के अध्ययन में शामिल है।
+$wyax,Aja_1,BUgola_1,aXyayana_1,SAmila_1,hE_1-pres
+1,2,3,4,6,5
+,,,,,
+,,,,,
+5:k1,5:k7t,4:r6,5:k7,5:k1s,0:main
+Geo_nios_1ch_0180.2:coref,,,,,
+proximal,BI_5,,,,
+,,,,,
+%affirmative
+*nil

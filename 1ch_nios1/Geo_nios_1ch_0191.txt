@@ -1,0 +1,11 @@
+#ये सभी विषय एक दूसरे से अन्तर्सम्बन्धित है ।
+$wyax,sabI_1,viRaya_1,eka+xUsarA,anwarsambanXiwa_1,hE_1-pres
+1,2,3,4,5,6
+,,,,,
+,,,,,
+3:dem,3:quant,6:k1,6:rask1,6:k1s,0:main
+,,,,,
+proximal,,,,,
+,,,,,
+%affirmative
+*nil

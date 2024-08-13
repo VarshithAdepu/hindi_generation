@@ -1,0 +1,11 @@
+#इस प्रकार की सजीव कल्पना से यह भविष्यवाणी की जा सकती है ।
+$wyax,prakAra_1,sajIva_1+kalpanA_1,$wyax,BaviRyavANI+kara_1-yA_jA_sakawA_hE_1
+1,2,3,4,5
+,,,,
+,,,,
+2:r6,3:r6,4:k3,4:k2,0:main
+Geo_nios_1ch_0123.10:coref,,,Geo_nios_1ch_0124b.6:coref/Geo_nios_1ch_0124c.10:coref,
+proximal,,,proximal,
+,,,,
+%pass_affirmative
+*nil

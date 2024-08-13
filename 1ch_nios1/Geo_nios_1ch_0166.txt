@@ -1,0 +1,11 @@
+#भूगोल की तीन मुख्य शाखाएँ है: भौतिक, मानव और प्रादेशिक।
+BUgola_1,3,muKya_1,SAKA_1,hE_1-pres,BOwika_1,mAnava_3,prAxeSika_1
+1,2,3,4,5,6,7,8
+,numex,,,,,,
+,,,pl,,,,
+4:r6,4:card,4:mod,5:k1,0:main,4:re,4:re,4:re
+,,,,,,,
+,,,,,,,
+,,,,,,,
+%affirmative
+*conj:[6,7,8]

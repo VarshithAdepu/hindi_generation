@@ -1,0 +1,11 @@
+#लोगों की जरूरत के अनुसार राहत सामग्री के उचित वितरण के लिए उस क्षेत्र के भूगोल का ज्ञान होना आवश्यक है ।
+loga_1,jarUrawa_1,rAhawa_1+sAmagrI_1,uciwa_1,viwaraNa_1,$wyax,kRewra_5,BUgola_1,jFAna+ho_1,AvaSyaka_1,hE_1-pres
+1,2,3,4,5,6,7,8,9,10,11
+anim,,,,,,,,,,
+pl,,,,,,,,,,
+2:r6,11:k7a,5:r6,5:mod,11:rt,7:dem,8:r6,9:r6,11:k1,11:k1s,0:main
+,,,,,,,,,,
+,,,,,distal,,,,,
+,,,,,,,,,,
+%affirmative
+*compound:[3.1/3.2:rt]

@@ -1,0 +1,11 @@
+#इस पाठ का अध्ययन करने के पश्चात् आप भूगोल की विभिन्न शाखाओं और इसके विषय क्षेत्र को पहचान सकेंगे ।
+$wyax,pATa_1,aXyayana+kara_2,$addressee,BUgola_1,viBinna_1,SAKA_1,$wyax,viRaya_1+kRewra_1,pahacAna_5-0_sakegA_1
+1,2,3,4,5,6,7,8,9,10
+,,,anim,,,,,,
+,,,pl,,,pl,,,
+2:dem,3:r6,10:rblak,10:k1,7:r6,7:mod,10:k2,9:r6,10:k2,0:main
+,,,,5:coref,,,5:coref,,
+proximal,,,respect,,,,,,
+,,,,,,,,,
+%affirmative
+*compound:[9.1/9.2:r6] conj:[7,9]

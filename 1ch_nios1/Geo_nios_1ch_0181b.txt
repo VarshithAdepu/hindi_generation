@@ -1,0 +1,11 @@
+#परन्तु पिछले कुछ वर्षों में इसके प्रतिरूपों के वर्णन में परिवर्तन हुआ है ।
+piCalA_1,kuCa_1,varRa_1,$wyax,prawirUpa_11,varNana_1,parivarwana+ho_2-yA_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+,,pl,,pl,,
+3:mod,3:quant,7:k7t,5:r6,6:r6,7:k7,0:main
+,,,Geo_nios_1ch_0180.2:coref,,,Geo_nios_1ch_0180.5:viroXi
+,,,proximal,,,
+,,,,,,
+%affirmative
+*nil

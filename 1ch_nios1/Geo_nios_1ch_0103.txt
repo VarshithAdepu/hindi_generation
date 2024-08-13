@@ -1,0 +1,11 @@
+#मानचित्र विज्ञान का संबंध मानचित्र और आरेख तैयार करने से है, जो भौगोलिक परिघटनाओं के वितरण को दर्शाते हैं ।
+mAnaciwra_1+vijFAna_1,saMbaMXa_1,mAnaciwra_1,AreKa_1,wEyAra+kara_1,hE_1-pres,$yax,BOgolika_1,pariGatanA_1,viwaraNa_1,xarSA_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,
+,,,,,,,,pl,,
+3:r6,6:k1,6:k2,6:k2,6:k2,0:main,11:k1,9:mod,10:r6,11:k2,1:rcelab
+,,,,,1:coref,1:coref,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+%affirmative
+*compound:[1.1/1.2:r6] conj:[3,4]
