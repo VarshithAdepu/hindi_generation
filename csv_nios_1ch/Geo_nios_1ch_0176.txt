@@ -1,0 +1,8 @@
+#यह भौतिक व सांस्कृतिक विश्व को जोडता है ।
+$wyax        1        -        -        5:k1        Geo_nios_1ch_0175.1:coref        proximal        -
+BOwika_2        2        -        -        4:mod        -        -        -
+sAMskqwika_1        3        -        -        4:mod        -        -        -
+viSva_6        4        -        -        5:k2        -        -        -
+joda_1-wA_hE_1        5        -        -        0:main        -        -        -
+%affirmative
+*conj:[2,3]

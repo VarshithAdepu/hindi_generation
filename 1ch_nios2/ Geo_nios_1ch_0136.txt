@@ -1,0 +1,17 @@
+<sent_id= Geo_nios_1ch_0136>
+#उसने पारंपरिक भूगोल की गुणात्मक प्रवृत्तियों के विपरीत भौगोलिक प्रश्नों को और अधिक मात्रात्मक और विश्लेषणात्मक आधार प्रदान किया ।
+$wyax	1	-	-	13:k1 	Geo_nios_1ch_0135.4:coref	proximal	-
+pAraMparika_1	2	-	-	3:mod	-	-	-
+BUgola_1	3	-	-	5:r6	-	-	-
+guNAwmaka_1	4	-	-	5:mod	-	-	-
+pravqwwi_3	5	-	pl      13:k1 	-	-	-
+BOgolika_1	7	-	-	8:mod	-	-	-
+praSna_1	8	-	pl	13:rd	-	-	-
+aXika_1	9	-	-	10:quant	-	-	-
+mAwrAwmaka_1	10	-	-	12:mod	-	-	-
+viSleRaNAwmaka_1	11	-	-	12:mod	-	-	-
+AXAra_1	12	-	-	13:k2	-	-	-
+praxAna+kara_6-yA_1	13	-	-	0:main    -    -    -
+%affirmative
+*nil
+</sent_id>

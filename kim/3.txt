@@ -1,0 +1,10 @@
+#राम कहाँ जा रहा है।
+rAma,kim,jA_1-0_rahA_hE_1
+1,2,3
+per,,
+[m sg a],[- sg a],
+3:k1,3:k2p,0:main
+,,
+,,
+,,
+interrogative

@@ -1,0 +1,8 @@
+# यह स्थान की सामाजिक परिघटनाओं का विश्लेषण करता है ।
+$wyax        2        -        -        6:k1         Geo_nios_1ch_0161T.1:coref        proximal        -
+sWAna_1        3        -        -        5:r6        -        -        -
+sAmAjika_1        4        -        -        5:mod        -        -        -
+pariGatanA_1        5        -        pl        6:k2        -        -        -
+viSleRaNa+kara_1-wA_hE_1        6        -        -        0:main        -        -        -
+%affirmative
+*nil

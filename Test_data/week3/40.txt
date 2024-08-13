@@ -1,0 +1,10 @@
+#मस्तिष्क उसके स्पीकर हैं |
+maswiRka_1,vaha,spIkara_1,hE_-pres
+1,2,3,4
+,,,
+[- sg a],,[- sg a],
+4:k1,3:r6,4:k1s,0:main
+,Hin_Geo_ncert_7stnd_4ch_0070a.3:coref,,
+,,,
+,,,
+affirmative

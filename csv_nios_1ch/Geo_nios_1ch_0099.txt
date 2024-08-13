@@ -1,0 +1,10 @@
+#ऐसे गलियारों पर कई आर्थिक क्रियाकलाप केन्द्रित हो जाते हैं ।
+$wyax        1        -        -        2:dem        -        proximal        -
+prakAra_1    2    -    -    3:r6    -    -    -
+galiyArA_2   3        -        pl        7:k7p        -        -        -
+kaI_1   4        -        -        6:quant        -        -        -
+ArWika_1        5        -        -        6:mod        -        -        -
+kriyAkalApa_1        6        -        -        7:k1        -        -        -
+kenxriwa+ho_1-wA_hE_1         7        -        -        0:main   -        [shade:jA_1]        -
+%affirmative
+*nil

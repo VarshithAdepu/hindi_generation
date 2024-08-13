@@ -1,0 +1,12 @@
+#महासागरीय धाराएँ, किसी क्षेत्र के तापमान को प्रभावित करती हैं ।
+mahAsAgarIya_1,XArA_1,koI,kRewra_1,wApamAna_1,praBAviwa+kara_1-wA_hE_1
+1,2,3,4,5,6
+,,,,,
+,[- pl a],,[- sg a],[- sg a],
+2:mod,6:k1,4:mod,5:r6,6:k2,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+
+

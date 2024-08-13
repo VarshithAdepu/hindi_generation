@@ -1,0 +1,10 @@
+#राम हमेशा अपना काम समय पर समाप्त करता है
+rAma, hameSA_1, apanA, kAma_1, samaya_1, samApwa+kara_1-wA_hE_1
+1,2,3,4,5,6
+per,,,,,
+[m sg a],,,[- sg a],,
+6:k1,6:krvn,4:r6,6:k2,6:k7t,0:main
+,,1:coref,,,
+,,,,,
+,,,,,
+affirmative

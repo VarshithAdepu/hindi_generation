@@ -1,0 +1,10 @@
+#भूगोल के अध्ययन और मानचित्रों के उपयोग से स्थानिक योजना बनाई जा सकती है ।
+BUgola_1        1        -        -        2:r6        -        -        -
+aXyayana_1        2        -        -        4:r6        -        -        -
+mAnaciwra_1        3        -        pl        4:r6        -        -        -
+upayoga_1        4        -        -        7:k3        -        -        -
+sWAnika_2        5        -        -        6:mod        -        -        -
+yojanA_1        6        -        -        7:k2        -        -        -
+banA_10-yA_jA_sakawA_hE_1        7        -        -        0:main        -        -        -
+%pass_affirmative
+*conj:[2,4]

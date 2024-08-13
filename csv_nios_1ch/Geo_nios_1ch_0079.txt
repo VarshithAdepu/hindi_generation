@@ -1,0 +1,18 @@
+#यह पृथ्वी के विभिन्न तंत्रों जैसे वायुमंडल ,जलमंडल स्थलमंडल और जैवमंडल का अध्ययन करता है, जो पृथ्वी पर जीवित जीवों के लिए आवश्यक है ।
+$wyax        1        -        -        9:k1        Geo_nios_1ch_0078.15:coref        proximal        -
+pqWvI_1        2        -        -        4:r6        -        -        -
+viBinna_1        3        -        -        4:mod        -        -        -
+waMwra_1        4        -        pl        9:k2        -        -        -
+vAyumaMdala_1        5        -        -        4:re        -        -        -
+jalamaMdala_1        6        -        -        4:re        -        -        -
+sWalamaMdala_1        7        -        -        4:re        -        -        -
+jEvamaMdala_1        8        -        -        4:re        -        -        -
+aXyayana+kara_1-wA_hE_1        9        -        -        0:main        -        -        -
+$yax        10        -        -        15:k1        4:coref        -        -
+pqWvI_1        11        -        -        12:k7p        -        -        -
+jIviwa_2        12        -        -        13:mod        -        -        -
+jIva_7        13        -        pl        15:rt        -        -        -
+AvaSyaka_1        14        -        -        15:k1s        -        -        -
+hE_1        15        -        -        4:rcelab        -        -        -
+%affirmative
+*conj:[5,6,7,8]

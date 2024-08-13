@@ -1,0 +1,5 @@
+# सामाजिक भूगोल:
+sAmAjika_1    1    -    -    2:mod    -    -    -
+BUgola_1        2        -        -        0:main        -        -        -
+%term
+*nil

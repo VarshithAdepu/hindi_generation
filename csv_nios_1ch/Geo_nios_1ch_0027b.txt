@@ -1,0 +1,12 @@
+#किस प्रकार सामाजिक, सांस्कृतिक, आर्थिक और जनांकिकी कारक भौतिक स्थल रूप को परिवर्तित कर रहे है ?
+$kim        1        -        -        9:dem   -        -        -
+prakAra_1    9    -    -    8:krvn    -    -    -
+sAmAjika_1        2        -        -        6:mod        -        -        -
+sAMskqwika_1        3        -        -        6:mod        -        -        -
+ArWika_1        4        -        -        6:mod   -        -        -
+janAMkikI_1        5        -        -        6:mod        -        -        -
+kAraka_1        6        -        -        9:k1        -        -        -
+BOwika_2+sWala_1+rUpa_5        7        -        -        8:k2        -        -        -
+parivarwiwa+kara_1-0_rahA_hE_1        8        -        -        0:main        -        -        -
+%affirmative
+*compound:[7.1/7.2:samAnAXikaraNa] compound:[7.2/7.3:r6] conj:[2,3,4,5]

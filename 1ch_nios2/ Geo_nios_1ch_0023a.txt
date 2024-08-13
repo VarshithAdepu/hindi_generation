@@ -1,0 +1,14 @@
+<sent_id= Geo_nios_1ch_0023a>
+#सामान्यतः प्राकृतिक तत्वों जैसे पर्वतों, नदियों, झीलों आदि में धीरे-धीरे परिवर्तन होता है ।
+sAmAnyawaH_1	1	-	-	9:vkvn	-	-	-
+prAkqwika_1	2	-	-	3:mod	-	-	-
+wawva_1	3	-	pl	9:k2	-	-	-
+parvawa_1	4	-	pl	3:re	-	-	-
+naxi_1	5	-	pl	3:re	-	-	-
+JIla_1	6	-	pl	3:re	-	-	-
+Axi_1	7	-	-	3:re	-	-	-
+XIre+XIre_3	8	-	-	9:krvn	-	-	-
+parivarwana+ho_1-wA_hE_1	9	-	-	0:main	-	-	-
+%affirmative
+*conj:[4,5,6,7]
+</sent_id>

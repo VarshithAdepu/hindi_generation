@@ -1,0 +1,14 @@
+<sent_id= Geo_nios_1ch_0019>
+#इस पाठ का अध्ययन करने के पश्चात् आप भूगोल के क्रमबद्ध और प्रादेशिक उपागम की व्याख्या कर सकेंगे ।
+$wyax	1	-	-	2:dem	-	proximal	-
+pATa_1	2	-	-	3:r6	-	-	-
+aXyayana+kara_2	3	-	-	9:rblak	-	-	-
+$addressee	4	anim	pl	9:k1	-	respect	-
+BUgola_1	5	-	-	6:r6	-	-	-
+kramabaxXa_5	6	-	-	8:mod	-	-	-
+prAxeSika_1	7	-	-	8:mod	-	-	-
+upAgama_2	8	-	-	9:k2	-	-	-
+vyAKyA+kara_2-0_sakegA_1	9	-	-	0:main	-	-	-
+%affirmative
+*conj:[6,7]`
+</sent_id>

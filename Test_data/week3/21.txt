@@ -1,0 +1,10 @@
+#दो लीटर जल लें ।
+xo_1,lItara_1,jala_1,le_1-0_1
+1,2,3,4
+,,mass,
+,,[- pl a],
+2:card,3:mod,4:k2,0:main
+,,,
+,,,
+,,,
+imperative

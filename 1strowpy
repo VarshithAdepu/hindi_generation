@@ -1,0 +1,37 @@
+# import os
+
+# def extract_first_lines(input_folder, output_file):
+#     with open(output_file, 'w') as outfile:
+#         files = sorted(os.listdir(input_folder))
+#         for filename in files:
+#             file_path = os.path.join(input_folder, filename)
+#             if os.path.isfile(file_path):
+#                 with open(file_path, 'r') as infile:
+#                     first_line = infile.readline().strip()
+#                     outfile.write(first_line + '\n')
+
+# input_folder = '1ch_nios1'  # replace with the path to your folder
+# output_file = '1strow.txt'  # replace with the path to your output file
+
+# extract_first_lines(input_folder, output_file)
+
+import os
+
+def extract_first_lines(input_folder, output_file):
+    with open(output_file, 'w') as outfile:
+        # Get a sorted list of files in the input folder
+        files = sorted(os.listdir(input_folder))
+        for filename in files:
+            file_path = os.path.join(input_folder, filename)
+            if os.path.isfile(file_path):
+                with open(file_path, 'r') as infile:
+                    first_line = infile.readline().strip()
+                    # Extract text after '#' if present
+                    if '#' in first_line:
+                        first_line = first_line.split('#', 1)[1].strip()
+                    outfile.write(first_line + '\n')
+
+input_folder = '1ch_nios1'  # replace with the path to your folder
+output_file = '1strow.txt'  # replace with the path to your output file
+
+extract_first_lines(input_folder, output_file)

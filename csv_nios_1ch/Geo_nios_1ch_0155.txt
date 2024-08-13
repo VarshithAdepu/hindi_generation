@@ -1,0 +1,10 @@
+#यह मानवीय संस्कृति की उत्पत्ति,घटकों और प्रभावों की चर्चा करता है।
+$wyax    9    -    -    8:k1    2:coref            proximal    -
+mAnavIya_1        3        -        -  4:mod        -        -        -
+saMskqwi_1        4        -        -        5:r6        -        -        -
+uwpawwi_1        5        -        -        8:k2        -        -        -
+Gataka_1        6        -        pl        8:k2        -        -        -
+praBAva_3        7        -        pl        8:k2        -        -        -
+carcA+kara_1-wA_hE_1        8        -        -        0:main   -        -        -
+%affirmative
+*conj:[5,6,7]

@@ -1,0 +1,8 @@
+#यह इस बात का वर्णन करने का प्रयास करता है ।
+$wyax        1        -        -        4:k1        Geo_nios_1ch_0182.2:coref        proximal        -
+$wyax        2        -        -        3:dem        -        proximal        -
+bAwa_1        3        -        -        4:k2        -        -        -
+varNana+kara_1        4        -        -        5:k2        -        -        -
+prayAsa+kara_1-wA_hE_1        5        -        -        0:main        -        -        -
+%affirmative
+*nil

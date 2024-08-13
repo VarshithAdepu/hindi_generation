@@ -1,0 +1,11 @@
+#eka xina vaha uskI sahAyawA karegA.
+eka_1,xina_1,vaha,vaha,sahAyawA+kara_1-gA_1
+1,2,3,4,5
+,,,,
+,[- sg a],,,
+2:card,5:k7t,5:k1,5:k2,0:main
+,,5a.1:coref,4a.1:coref,
+,,,,
+,,,,
+%affirmative
+*nil

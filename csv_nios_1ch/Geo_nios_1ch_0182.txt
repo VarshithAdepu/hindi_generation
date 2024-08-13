@@ -1,0 +1,9 @@
+#प्रादेशिक उपागम प्रदेशों के निर्माण व विशेषताओं की व्याख्या करता है ।
+prAxeSika_1        1        -        -        2:mod        -        -        -
+upAgama_2        2        -        -        6:k1        -        -        -
+praxeSa_1        3        -        pl        4:r6/5:r6        -        -        -
+nirmANa_14        4        -        -        6:k2        -        -        -
+viSeRawA_6        5        -        pl        6:k2        -        -        -
+vyAKyA+kara_1-wA_hE_1        6        -        -        0:main        -        -        -
+%affirmative
+*conj:[4,5]

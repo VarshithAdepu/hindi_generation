@@ -1,0 +1,5 @@
+#ऐतिहासिक भूगोल:
+EwihAsika_2    1    -    -    2:mod    -    -    -
+BUgola_1        2        -        -        0:main        -        -        -
+%term
+*nil

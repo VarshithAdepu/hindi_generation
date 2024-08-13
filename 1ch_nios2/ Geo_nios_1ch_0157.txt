@@ -1,0 +1,15 @@
+<sent_id= Geo_nios_1ch_0157>
+#आर्थिक भूगोल का अध्ययन निम्न बिंदुओं के अंतर्गत किया जा सकता है संसाधन भूगोल, कृषि भूगोल, औद्योगिक व परिवहन भूगोल ।
+ArWika_1    1    -    -    2:mod    -    -    -
+BUgola_1	2	-	-   5:k2	-	-	-
+nimna_1	3	-	-	4:mod	-	-	-
+biMxu_1	4	-	pl	5:k7	-	-	-
+aXyayana+kara_1-yA_jA_sakawA_hE_1	5	-	-	0:main	-	-	-
+saMsAXana_1+BUgola_1	6	-	-	4:re	-	-	-
+kqRi_1+BUgola_1	7	-	-	4:re	-	-	-
+Oxyogika_1	8	-	-	10:mod	-	-	-
+BUgola_1  9	-	-	10:mod	-	-	-
+parivahana_1+BUgola_1	10	-	-	4:re	-	-	-
+%pass_affirmative
+*compound:[6.1/6.2:r6] compound:[7.1/7.2:r6] compound:[10.1/10.2:r6] conj:[6,7,8,10]
+</sent_id>

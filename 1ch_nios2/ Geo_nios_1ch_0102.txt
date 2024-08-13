@@ -1,0 +1,12 @@
+<sent_id= Geo_nios_1ch_0102>
+#भूगोल का भी अपना एक यंत्र, तकनीक व विधियां है ।
+BUgola_1	1   -    - 	4:r6/5:r6/6:r6    -    BI_2    -    
+apanA	2	-	-	4:r6/5:r6/6:r6	-	-	-
+eka_2	3	-	-	4:quant	-	-	-
+yaMwra_1	4	-	-	7:k1	-	-	-
+wakanIka_1	5	-	-	7:k1	-	-	-
+viXi_1	6	-	pl	7:k1	-	-	-
+hE_1-pres	7	-	-	0:main	-	-    -
+ %affirmative
+*conj:[4,5,6]
+</sent_id>

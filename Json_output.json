@@ -1,0 +1,876 @@
+[
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence001",
+        "rows": [
+            {
+                "concept": "jaMgala_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": " eka_2",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "Sera_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": " hE_1-past",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence002",
+        "rows": [
+            {
+                "concept": "vaha",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence001.3:coref",
+                "spkview": ""
+            },
+            {
+                "concept": "jaMgala_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "ArAma+kara_1-0_rahA_WA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence003",
+        "rows": [
+            {
+                "concept": "vahAz_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence001.1:coref",
+                "spkview": "emphasis"
+            },
+            {
+                "concept": "bila_2",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "eka_2",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "cUhA_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "raha_1-wA_WA_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence004",
+        "rows": [
+            {
+                "concept": "cUhA_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "bila_2",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": " bAhara_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": " A_1-yA_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence005",
+        "rows": [
+            {
+                "concept": "vaha",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence004.1:coref",
+                "spkview": ""
+            },
+            {
+                "concept": "Sera_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "caDZa_1-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "[shade:jA_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence006",
+        "rows": [
+            {
+                "concept": "Sera_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": " jZora+se_2",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": " gurrA_2-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence007",
+        "rows": [
+            {
+                "concept": "vaha",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence006.1:coref",
+                "spkview": ""
+            },
+            {
+                "concept": " cUhA_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "pakadZa_5-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence006.3:samuccaya",
+                "spkview": "[shade:le_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence008",
+        "rows": [
+            {
+                "concept": "cUhA",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "dara_1-yA_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence006.3:kAryakAraNa",
+                "spkview": "[shade:jA_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence009",
+        "rows": [
+            {
+                "concept": "vaha",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence008.1:coref",
+                "spkview": ""
+            },
+            {
+                "concept": " Sera_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": " kaha_5-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": " speaker",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "mAPa+kara_1-o_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "[shade:xe_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence010",
+        "rows": [
+            {
+                "concept": "eka_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "xina_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "speaker",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "addressee",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "respect"
+            },
+            {
+                "concept": "avaSya_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "maxaxa+kara_1-gA_1",
+                "index": "6",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence011",
+        "rows": [
+            {
+                "concept": "Sera_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "wyax",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "bAwa_14",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": " suna_2",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": " hazsa_6-yA_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence012",
+        "rows": [
+            {
+                "concept": "wyax",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence011.1:coref",
+                "spkview": "distal"
+            },
+            {
+                "concept": "cUhA_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "CodZa_1-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence011.5:samuccaya",
+                "spkview": "[shade:xe_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence013",
+        "rows": [
+            {
+                "concept": "eka_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "xina_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "jaMgala_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "eka_2",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "SikArI_4",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "A_1-yA_1",
+                "index": "6",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence014",
+        "rows": [
+            {
+                "concept": "wyax",
+                "index": "1",
+                "gnp": "pl",
+                "Discourse": "Hin_Book1_Story1_Sentence013.4:coref",
+                "spkview": "distal"
+            },
+            {
+                "concept": "Sera_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "pakadZa_5",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "eka_2",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "jAla_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "biCA_1-yA_1",
+                "index": "6",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence015",
+        "rows": [
+            {
+                "concept": "Sera_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "wyax",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "jAla_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "Pazsa_12-yA_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "[shade:jA_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence016",
+        "rows": [
+            {
+                "concept": "Sera_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "jAla_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "nikala_7",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "prayAsa+kara_1-yA_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence017",
+        "rows": [
+            {
+                "concept": "wyax",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence016.1:coref",
+                "spkview": "distal"
+            },
+            {
+                "concept": " jAla_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "nahIM_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "nikala_7-0_sakA_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence016.4:vyabhicara",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence018",
+        "rows": [
+            {
+                "concept": "Sera_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": " bahuwa_7",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": " pareSAna_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "ho_1-yA_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "[shade:jA_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence019",
+        "rows": [
+            {
+                "concept": "wyax",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence018.1:coref",
+                "spkview": "distal"
+            },
+            {
+                "concept": "jZora+se_2",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "xahAdZa_3-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence020",
+        "rows": [
+            {
+                "concept": "vaha_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "samaya_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "emphasis"
+            },
+            {
+                "concept": "vaha",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "cUhA_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "vahAz_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence013.3:coref",
+                "spkview": ""
+            },
+            {
+                "concept": "A_1-yA_1",
+                "index": "6",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence021",
+        "rows": [
+            {
+                "concept": "wyax",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence020.4:coref",
+                "spkview": "distal"
+            },
+            {
+                "concept": "xeKa_1-yA_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "Sera_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "jAla_1",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "Pazsa_12-yA_hE_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "[shade:jA_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence022",
+        "rows": [
+            {
+                "concept": "wyax",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence020.4:coref",
+                "spkview": "distal"
+            },
+            {
+                "concept": "wejI+se_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "jAla_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "apanA",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "1:coref",
+                "spkview": ""
+            },
+            {
+                "concept": "pEnA_5",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "xAMwa_1",
+                "index": "6",
+                "gnp": "pl",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "kAta_18",
+                "index": "7",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "SurU+kara_1-yA_1",
+                "index": "8",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence023",
+        "rows": [
+            {
+                "concept": "jAla",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "jalxI_8",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "emphasis"
+            },
+            {
+                "concept": "kata_17-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence022.8:kAryakAraNa",
+                "spkview": "[shade:jA_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence024",
+        "rows": [
+            {
+                "concept": "Sera_1",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "jAla",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "mukwa+ho_1-yA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "Hin_Book1_Story1_Sentence023.3:samuccaya",
+                "spkview": "[shade:jA_1]"
+            }
+        ]
+    },
+    {
+        "usr_sub_id": "Hin_Book1_Story1_Sentence025",
+        "rows": [
+            {
+                "concept": "Sera",
+                "index": "1",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "prasanna+ho_1",
+                "index": "2",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "cUhA_1",
+                "index": "3",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": "def"
+            },
+            {
+                "concept": "bahuwa_7",
+                "index": "4",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            },
+            {
+                "concept": "XanyavAxa+xe_1-yA_1",
+                "index": "5",
+                "gnp": "",
+                "Discourse": "",
+                "spkview": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+<sent_id= Geo_nios_1ch_0095>
+#उदाहरण के लिए नगरीय मास्टर प्लान बनाते समय या ग्रामीण विकास पर विचार करते समय भौतिक स्थलाकृतियों, जलवायु, संसाधनों की उपलब्धता तथा लोगों की आवश्यकताओं के बारे में जानना बहुत जरूरी है ।
+nagarIya_1	1	-	-	2:mod	-	-	-
+^mAstara_2+plAna_1	2	-	-	3:k2	-	-	-
+banA_1	3	-	-	14:rsk	-	-	-
+grAmINa_1	4	-	-	5:mod	-	-	-
+vikAsa_2	5	-	-	6:k7	-	-	-
+vicAra+kara_1	6	-	-	14:rsk	-	-	-
+BOwika_2    7    -    -    8:mod    -    -    -
+sWalAkqwi_1	8	-	pl	13:r6	-	-	-
+jalavAyu_2	9	-	-	13:r6	-	-	-
+saMsAXana_1	10	-	pl	11:r6	-	-	-
+upalabXawA_1	11	-	-	13:r6	-	-	-
+loga_1	12	anim	pl	13:r6	-	-	-
+AvaSyakawA_1	13	-    -	14:k7	-	-	-
+jAna_17	14	-	pl	17:k1	-	-	-
+bahuwa_1	15	-	pl	16:intf	-	-	-
+jarUrI_1	16	-	-	17:k1s	-	-	-
+hE_1-pres	17	-	-	0:main   Geo_nios_1ch_0094.9:UxAharaNasvarUpa	-	-
+%affirmative
+*disjunct:[3,6] conj:[8,9,11,13]
+</sent_id>

@@ -1,0 +1,11 @@
+#भारत के पूर्वी समुद्री तट पर स्थित ओडिशा में बंगाल की खाड़ी से उठने वाले चक्रवातों का खतरा बना रहता है ।
+BArawa,pUrvI_1,samuxrI_1,wata_1,sWiwa_1,odiSA,baMgAla_1+kI_1+KAdZI_1,uTa_1,cakravAwa_1,KawarA_1,banA_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11
+place,,,,,place,place,,,,
+[- sg a],,,[- sg a],,,[- sg a],[- sg a],,[- sg a],[- sg a],
+4:r6,4:mod,4:mod,5:k7p,6:rbks,8:k7p,8:k5,9:10,10:r6,11:k1,0:main
+,,,,,,,,,,,
+,,,,,,,,,,,[shade:raha_1]
+,,,,,,,,,,,
+affirmative
+

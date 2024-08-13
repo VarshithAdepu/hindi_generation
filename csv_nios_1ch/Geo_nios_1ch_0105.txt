@@ -1,0 +1,13 @@
+#विभिन्न सांख्यिकीय तकनीक और प्रतिमानों का प्रयोग प्रादेशिक अन्वेषण और स्थानिक वितरणों और अन्तः क्रियाओं के लिए किया जाता है ।
+viBinna_4        1        -        -        10:mod        -        -        -
+sAMKyikIya_1 10 - -     2:mod    -        -        -
+wakanIka_1        2        -        -        9:k2        -        -        -
+prawimAna_5        3        -        pl        9:k2        -        -        -
+prAxeSika_1        4        -        -        5:mod        -        -        -
+anveRaNa_1        5        -        -        9:rt        -        -        -
+sWAnika_2        6        -        -        7:mod        -        -        -
+viwaraNa_1        7        -        pl        9:rt        -        -        -
+anwaH_1+kriyA_1        8        -        pl        9:rt        -        -        -
+prayoga+kara_2-yA_jawA_hE_1        9        -        -        0:main        -        -        -
+%pass_affirmative
+*conj:[2,3] conj:[5,7,8] compound:[8.1/8.2:r6]

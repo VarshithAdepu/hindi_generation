@@ -1,0 +1,10 @@
+राम कौन है?
+rAma,kim,hE_1-pres
+1,2,3
+per,anim,
+[m sg a],[m sg a],
+3:k1,3:k1s,0:main
+,,
+,,
+,,
+interrogative

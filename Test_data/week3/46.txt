@@ -1,0 +1,10 @@
+#मौसम नाटकीय रूप से दिन प्रतिदिन बदलता है ।
+mOsama_1,nAtakIya_1,rUpa_1,xina_1+prawixina_1,baxala_1-wA_hE_1
+1,2,3,4,5
+,,,,
+[- sg a],,[- sg a],[- sg a],[- sg a],
+5:k1,3:mod,5:k3,5:k7tf,0:main
+,,,,
+,,,,
+,,,,
+affirmative

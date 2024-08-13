@@ -1,0 +1,12 @@
+#पूर्व की भांति आज भी किसी क्षेत्र का भौगोलिक विवरण रिपोर्ट, यात्रा डायरियों और गजेटियरों में उपलब्ध है ।
+pUrva_3        1        -        -        2:ru   -        -        -
+Aja_1        2        -        -        10:k7t        -        BI_2        -
+koi_1        3        -        -        4:mod        -        -        -
+kRewra_5        4        -        -        6:r6        -        -        -
+BOgolika_1+vivaraNa_1+riporta_1        6        -        -        10:k1        -        -        -
+yAwrA+dAyarI_1        7        -        pl        10:k7        -        -        -
+gajetiyari_1        8        -        pl        10:k7p        -        -        -
+upalabXa_1        9        -        -        10:k1s        -        -        -
+hE_1-pres        10        -        -        0:main        -        -        -
+%affirmative
+*conj:[6,7,8]

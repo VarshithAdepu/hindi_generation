@@ -1,0 +1,11 @@
+#Sera Kuxa ko CudAne kI purI koSisa karwA hE
+Sera_1,Kuxa,CudA_1,purI_1,koSiSa+kara_2-wA_hE_1
+1,2,3,4,5
+anim,,,,
+[- sg a],,,,
+5:k1,3:k2,5:rt,5:kr_vn,0:main
+def,1:coref,,,
+,,,,
+,,,,
+%affirmative
+*nil

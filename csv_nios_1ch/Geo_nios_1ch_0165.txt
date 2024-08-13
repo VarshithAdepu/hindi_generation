@@ -1,0 +1,11 @@
+#प्रादेशिक भूगोल के अन्तर्गत प्रदेशों का नामांकन और उसकी भौगोलिक विशेषताओं का अध्ययन किया जाता है।
+prAxeSika_1        1        -        -        2:mod        -        -        -
+BUgola_1        2        -        -        8:k7        -        -        -
+praxeSa_1        3        -        pl        4:r6        -        -        -
+nAmAMkana_1        4        -        -        8:k2        -        -        -
+$wyax        5        -        -        7:r6        3:coref        -        -
+BOgolika_1        6        -        -        7:mod        -        -        -
+viSeRawA_1        7        -        pl        8:k2        -        -        -
+aXyayana+kara_1-yA_jAwA_hE_1        8        -        -        0:main        -        -        -
+%pass_affirmative
+*conj:[4, 7]

@@ -1,0 +1,6 @@
+#जिसका हम प्रयोग करते हैं
+$yax        1        -        -        3:k2        3:coref        -        -
+$speaker        2        anim        pl        3:k1        -        -        -
+prayoga+kara_2-wa_hE_1        3        -        -        Geo_nios_1ch_0025a.3:rcdelim        -        -        -
+%affirmative
+*nil

@@ -1,0 +1,11 @@
+#स्थानीय पवनें किसी छोटे क्षेत्र में वर्ष या दिन के किसी विशेष समय में चलती हैं ।
+sWAnIya_1,pavana_1,koI,CotA_1,kRewra_1,varRa_1,xina_1,koI,viSeRa_1,samaya_1,cala_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11
+,mass,,,,mass,,,,,
+,[- pl a],,,[- sg a],[- sg a],[- sg a],,,[- sg a],
+2:mod,11:k1,5:mod,5:mod,11:k7p,10:r6,10:r6,10:mod,10:mod,11:k7t,0:main
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+affirmative
+conj:[6,7]

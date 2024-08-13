@@ -1,0 +1,10 @@
+#प्यासे होने पर केवल जल ही हमारी प्यास बुझा सकता है ।
+pyAsA+ho_1,jala_1,speaker,pyAsa_1,buJA_1-0_sakawA_hE_1
+1,2,3,4,5
+,mass,anim,,
+,[- pl a],[m pl u],[- - a],
+5:rblpk,5:k1,4:r6,5:k2,0:main
+,,,,
+,kevala hI,,,
+,,,,
+affirmative

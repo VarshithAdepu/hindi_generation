@@ -1,0 +1,12 @@
+#दीर्घ काल में किसी स्थान का औसत मौसम, उस स्थान की जलवायु बताता है ।
+xIrGa_1,kAla_1,koI,sWAna_1,Osawa_1,mOsama_1,vaha,sWAna_1,jalavAyu_1,bawA_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10
+,,,,,,,,mass,
+,[- sg a],,[- sg a],,[- sg a],,[- sg a],[- pl a],
+2:mod,10:k7t,4:mod,6:r6,6:mod,10:k1,8:dem,9:r6,10:k2,0:main
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+affirmative
+
+

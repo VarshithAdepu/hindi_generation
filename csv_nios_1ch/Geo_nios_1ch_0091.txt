@@ -1,0 +1,10 @@
+#भूगोल में दो प्रमुख उपागम जैसे क्रमबद्ध और प्रादेशिक है ।
+BUgola_1        1        -        -        7:k7        -        -        -
+2   2        numex        -        4:card        -        -        -
+pramuKa_1        3        -        -        4:mod        -        -        -
+upAgama_2        4        -        -        7:k1        -        -        -
+kramabaxXa_1        5        -        -        4:re        -        -        -
+prAxeSika_1        6        -        -        4:re        -        -        -
+hE_1-pres        7        -        -        0:main        -        -        -
+%affirmative
+*conj:[5,6]

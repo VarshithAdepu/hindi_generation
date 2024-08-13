@@ -1,0 +1,8 @@
+#भूगोल एक प्राचीनतम भू-विज्ञान है ।
+BUgola_1        1        -        -        5:k1        -        -        -
+eka_2        2        -        -        3:card        -        -        -
+prAcIna_2        3        -        superl        4:mod        -        -        -
+BU+vijFAna_1        4        -        -        5:k1s        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -
+%affirmative
+*compound:[4.1/4.2:viRaya-viRayI]]

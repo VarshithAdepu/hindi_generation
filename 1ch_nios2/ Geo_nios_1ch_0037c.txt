@@ -1,0 +1,8 @@
+<sent_id= Geo_nios_1ch_0037c>
+#बल्कि यह यह भी खोज करता है।
+$wyax    1   -    -    2:k1    -     distal    -    
+$wyax	2	-	-	2:k2	Geo_nios_1ch_0037d.3:coref	proximal/BI_1	-
+Koja+kara_1-wA_hE_1    3    -    -    0:main  Geo_nios_1ch_0037a.6:samuccaya    BI_1   	 -
+%affirmative
+*nil
+</sent_id>

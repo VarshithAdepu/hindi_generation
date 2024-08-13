@@ -1,0 +1,9 @@
+#मानचित्रकारों को भूगणित के साथ-साथ आधुनिक गणित में भी पारंगत होना चाहिए ।
+mAnaciwrakAra_1        1        anim        pl        5:k1        -        -        -
+BUgaNiwa_1        2        -        -        5:rask7        -        -        -
+AXunika_1        3        -        -        4:mod        -        -        -
+gaNiwa_1        4        -        -        5:k7        -        BI_1        -
+pAraMgawa_1            5    -    -    5:k1s    -    -    -
+ho_1-nA_cAhie_1        6        -        -        0:main        -        -        -
+%affirmative
+*nil

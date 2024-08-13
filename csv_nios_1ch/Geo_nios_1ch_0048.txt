@@ -1,0 +1,9 @@
+#मानचित्रों को बनाने के लिए अंकीय भौगोलिक सूचना तंत्र नये उपकरण है ।
+mAnaciwra_1        1        -        pl        2:k2        -        -        -
+banA_1        2        -        -        8:rt        -        -        -
+aMkIya_3+BOgolika_1+sUcanA_1+waMwra_1        5        -        -        8:k1        -        -        -
+nayA_1        6        -        -        7:mod        -        -        -
+upakaraNa_1        7        -        -        8:k1s        -        -        -
+hE_1-pres        8        -        -        0:main        -        -        -
+%affirmative
+*nil

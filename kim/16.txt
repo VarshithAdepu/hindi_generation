@@ -1,0 +1,10 @@
+#सीता किससे बोली
+sIwA,kim,bola_1-yA_1
+1,2,3
+per,,
+[f sg a],[m sg a], 
+3:k1,3:k2,0:main 
+,, 
+,, 
+,, 
+interrogative

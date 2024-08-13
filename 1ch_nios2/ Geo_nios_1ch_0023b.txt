@@ -1,0 +1,13 @@
+<sent_id= Geo_nios_1ch_0023b>
+#जबकि सांस्कृतिक तत्वों जैसे भवनों, सडकों, फसलों आदि में तेजी से परिवर्तन होता है ।
+sAMskqwika_1	1	-	-	2:mod	-	-	-
+wawva_1	2	-	pl	8:k7	-	-	-
+Bavana_1	3	-	pl	2:re	-	-	-
+sadaka_1	4	-	pl	2:re	-	-	-
+Pasala_1	5	-	pl	2:re	-	-	-
+Axi_1    6    -    -    2:re    -    -    -
+wejI+se_1	7	-	-	7:krvn	-	-	-
+parivarwana+ho_1-wA_hE_1	8	-	-	0:main	Geo_nios_1ch_0023a.9:viroXaxyowaka	-	-
+%affirmative
+*conj:[3,4,5,6]
+</sent_id>

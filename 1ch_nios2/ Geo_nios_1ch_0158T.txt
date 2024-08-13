@@ -1,0 +1,6 @@
+<sent_id= Geo_nios_1ch_0158T>
+#राजनीतिक भूगोल:
+rAjanIwika_1+BUgola_1	1	-	-	0:main	-	-	-
+%term
+*compound:[1.1/1.2:r6]
+</sent_id>

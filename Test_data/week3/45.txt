@@ -1,0 +1,12 @@
+#हम घूमने की योजना भी बना सकते हैं ।
+speaker,GUma_1,yojanA_1,banA_1-0_sakawA_hE_1
+1,2,3,4
+anim,,,
+[- pl u],,[- sg a],[causative]
+4:k1,3:r6,4:k2,0:main
+,,,
+,,BI,
+,,,
+affirmative
+
+

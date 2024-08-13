@@ -1,0 +1,12 @@
+#यह काल 15 वीं सदी के मध्य से शुरू होकर 18 वीं सदी के पूर्व तक चला ।
+$wyax        1        -        -        2:dem        -        proximal        -
+kAla_2        2        -        -        7:k1        -        -        -
+15 8 numex - 3:ord - - -
+saxI_1        3        era        -        4:rkl        -        -        -
+maXya_1        4        -        -        7:k7t        -        -        -
+18 9 numex - 5:ord - - -
+saxI_1        5        era        -        6:r6        -        -        -
+pUrva_1        6        -        -        7:k7t        -        -        -
+cala_1-yA_1        7        -        -        0:main        -        -        -
+%affirmative
+*span:[4:start,6:end]

@@ -1,0 +1,10 @@
+#तीव्र वेग वाली इस पवन ने कच्चे घरों को नष्ट कर दिया ।
+wIvra_1,vega_1,yaha,pavana,kaccA_1,Gara_1,naRta+kara_1-yA_1
+1,2,3,4,5,6,7
+,,,mass,,,
+,[- sg a][mawup],,[- pl a],,[- pl a],
+2:mod,4:mod,4:dem,7:k1,6:mod,7:k2,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative

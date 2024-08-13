@@ -1,0 +1,15 @@
+#1995 में इस इकाई का दर्जा बढ़ाकर ज्योमेटिक्स प्रयोगशाला कर दिया गया, जिसमें कम्प्यूटर मानचित्र और भौगोलिक सूचना तंत्र पर विशेष बल दिया जाता है ।
+1995        1        yoc        -        7:k7t        -        -        -
+$wyax        2        -        -        3:dem        -        proximal        -
+ikAI_1        3        -        -        4:r6        -        -        -
+xarjA_1        4        -        -        5:k2        -        -        -
+baDZA_1        5        -        -        7:rpk        -        -        -
+jyometiksa_1+prayogaSAlA_1        6        org        -        7:k2        -        -        -
+kara_1-yA_gayA_1        7        -        -        0:main        -        [shade:xe_1]        -
+$yax        8        -        -        14:k7        6:coref   -        -
+kampyUtara_1+mAnaciwra_1        9        -        -        14:k2        -        -        -
+BOgolika_1+sUcanA_1+waMwra_1        11        -        -        14:k2        -        -        -
+viSeRa_1        12        -        -        13:mod        -        -        -
+bala+xe_1-yA_jAwA_hE_1     13    -    -    14:k2    -    -    -
+%pass_affirmative
+*compound:[9.1/9.2:r6] conj:[9, 11] compound:[11.1/11.2:samAnAXikaraNa] compound:[11.2/11.3:r6]

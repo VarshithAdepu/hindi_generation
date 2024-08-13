@@ -1,0 +1,15 @@
+<sent_id= Geo_nios_1ch_0156>
+#यह स्थानीय,प्रादेशिक,राष्ट्रीय और विश्व स्तर पर आर्थिक गतिविधियों की अवस्थिति व वितरण का अध्ययन करता है।
+$wyax	2	-	-    10:k1   1:coref   proximal	-
+sWAnIya_1+swara_1	3	-	-	10:k7	-	-	-
+prAxeSika_1+swara_1	4	-	-	10:k7	-	-	-
+rARtrIya_1+swara_1	5	-	-	10:k7	-	-	-
+viSva_6+swara_1	6	-	-	10:k7	-	-	-
+ArWika_1    11    -    -    7:mod    -    -    -
+gawiviXi_1	7	-	pl	8:r6	-	-	-
+avasWiwi_1	8	-	-	10:k2	-	-	-
+viwaraNa_1	9	-	-	10:k2	-	-	-
+aXyayana+kara_2-wA_hE_1	10	-	-	0:main	-	-	-
+%affirmative
+*conj:[3,4,5,6] conj:[8,9] compound:[6.1/6.2:r6]
+</sent_id>

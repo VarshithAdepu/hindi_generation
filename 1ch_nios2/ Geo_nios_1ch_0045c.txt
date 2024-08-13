@@ -1,0 +1,13 @@
+<sent_id= Geo_nios_1ch_0045c>
+#कि समस्याओं के समाधान में भूमि उपयोग योजना किस प्रकार सहायक हो सकती है
+samasyA_1    1    -    -    2:r6    -    -    -
+samAXAna_1    2    -    -    8:rt    -    -    -
+BUmi_1    3    -    -    5:k1    -    -    -
+upayog_1    4    -    -    3:rs    -    -    -
+yojanA_1    5    -    -    3:rs    -    -    -
+$kim    6    -    -    7:mod    -    -    -
+prakAra_1    7    -    -    8:krvn    -    -    -
+sahAyaka+ho_1-0_sakawA_hE_1    8    -    -    0:main    -    -    -
+%affirmative
+*nil
+</sent_id>

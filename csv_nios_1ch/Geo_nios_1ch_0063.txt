@@ -1,0 +1,12 @@
+#क्रिस्टोफर कोलम्बस, वास्कोडिगामा, मैगलन और थॉमस कुक इस काल के प्रमुख अन्वेषणकर्ता थे ।
+kristoPara+kolambasa        1        per/male        -        9:k1        -        -        -
+vAskodigAmA        2        per/male        -        9:k1        -        -        -
+mEgalana        3        per/male        -        9:k1        -        -        -
+WoYmasa+kuka        4        per/male        -        9:k1        -        -        -
+$wyax        5        -        -        6:dem        -        proximal        -
+kAla_1        6        -        -        8:r6        -        -        -
+pramuKa_1        7        -        -        8:mod        -        -        -
+anveRaNakarwA_1        8        anim        pl        9:k1s        -        -        -
+hE_1-past        9        -        -        0:main        -        -        -
+%affirmative
+*conj:[1,2,3,4]

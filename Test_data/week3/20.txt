@@ -1,0 +1,10 @@
+#नमक की अधिकता इसे सघन बना देती है ।
+namaka_1,aXikawA_1,yaha,saGana_1,banA_1-wA_hE_1
+1,2,3,4,5
+,,,,
+[- sg a],,,,
+2:r6,5:k1,5:k2,5:mod,0:main
+,,,,
+,,,,[shade:xe_1]
+,,,,
+affirmative

@@ -1,0 +1,12 @@
+#प्रशासनिक इकाई जैसे राज्य, जिला, तहसील को भी प्रदेश के रूप में सम्मिलित किया जा सकता है ।
+praSAsanika_1,ikAI_1,rAjya_7,jilA_3,wahasIla_1,praxeSa_1,rUpa_1,sammiliwa+kara_1-yA_jA_sakawA_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+,,,,,,,
+2:mod,8:k2,2:re,2:re,2:re,7:r6,8:k7,0:main
+,,,,,,,
+,,,,samuccaya,,,
+,,,,,,,
+%pass_affirmative
+*conj:[3,4,5]
+

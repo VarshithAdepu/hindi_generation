@@ -1,0 +1,13 @@
+#मानचित्रों के सावधानीपूर्वक प्रयोग से प्रतिरूपों की पहचान और साथ ही इन प्रतिरूपों के बनने के कारणों का पता लगाते हैं।
+mAnaciwra_1        1        -        pl        2:r6        -        -        -
+sAvaXAnIpUrvaka_1        2        -        -        3:mod        -        -        -
+prayoga_2        3        -        -        5:k3        -        -        -
+prawirUpA_1        4        -        pl        5:k2        -        -        -
+pahacAna_5        5        -        -        10:k2        -        -        -
+$wyax        6        -        -        7:dem        -        proximal        -
+prawirUpa_1        7        -        pl        9:r6        -        sAwa+hI_1        -
+bana_4        8        -        -        10:rh        -        -        -
+kAraNa_1        9        -        pl        11:k2        -        -        -
+pawA+laga_1-wA_hE_1        10        -        -        0:main        -        -        -
+%affirmative
+*nil

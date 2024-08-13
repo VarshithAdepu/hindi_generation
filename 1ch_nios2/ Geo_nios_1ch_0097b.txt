@@ -1,0 +1,9 @@
+<sent_id= Geo_nios_1ch_0097b>
+#तथा उनकी आय के स्रोत नष्ट हो जाएँगे ।
+$wyax	1	-	-	2:r6	Geo_nios_1ch_0097a.1:coref	distal	-
+Aya_1	2	-	-	3:r6	-	-	-
+srowa_1	3	-	-	4:k1	-	-	-
+naRta+ho_1-gA_1	4	-	-	0:main	Geo_nios_1ch_0097a.2:samuccya	[shade:jA_1]	-
+%affirmative
+*nil
+</sent_id>

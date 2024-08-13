@@ -1,0 +1,19 @@
+<sent_id= Geo_nios_1ch_0143>
+#यह पार्थिव घटनाओं का अध्ययन करता है, जिसमें मुख्य रूप से पृथ्वी की सतह के साथ-साथ सूर्य, चंद्रमा और सौरमंडल के ग्रहों को शामिल किया जाता है ।
+$wyax	1	-	-	4:k1 	Geo_nios_1ch_0140.2:coref	proximal	-
+pArWiva_1	2	-	-	3:mod	-	-	-
+GatanA_1	3	-	pl	4:k2	-	-	-
+aXyayana+kara_2-wA_hE_1	4	-	-	0:main	-	-	-
+$yax	5	-	-	14:k7	3:coref	-	-
+muKya_1    6    -    -    7:mod   	 -    -    -
+rUpa_1	7	-	-	14:vkvn	-	-	-
+pqWvI_1	8	-	-	9:r6	-	-	-
+sawaha_1	9	-	-	14:k2	-	samAveSI	-
+sUrya_1	10	-	-	14:k2	-	-	-
+caMxramA_1	11	-	-	14:k2	-	-	-
+sOramaMdala_1	12	-	-	12:r6	-	-	-
+graha_1	13	-	pl	14:k2	-	-	-
+SAmila+kara_1-yA_jAwA_hE_1	14	-	-	3:rcelab	-	-	-
+%pass_affirmative
+*conj:[10,11,13]
+</sent_id>

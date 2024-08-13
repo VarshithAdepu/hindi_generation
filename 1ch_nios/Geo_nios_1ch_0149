@@ -1,0 +1,12 @@
+#यह विविध मृदा निर्माण प्रक्रियाओं के साथ-साथ इसके भौतिक, रासायनिक और जैविक घटकों, रंग और प्रकार, संरचना व वितरण और वहन क्षमता आदि का भी अध्ययन करता है ।
+$wyax,viviXa_3,mqxA_1+nirmANa_1+prakriyA_1,$wyax,BOwika_2,rAsAyanika_1,jEvika_1,Gataka_1,raMga_1,prakAra_7,saMracanA_4,viwaraNa_1,vahana_1+kRamawA_3,Axi_1,aXyayana+kara_2-wA_hE_1
+1,2,4,5,6,7,8,9,10,11,12,13,14,15,16
+,,,,,,,,,,,,,,
+,,pl,,,,,pl,,,,,,,
+16:k1,4:mod,16:rask2,6:r6,9:mod,9:mod,9:mod,16:k2,16:k2,16:k2,16:k2,16:k2,16:k2,16:k2,0:main
+Geo_nios_1ch_0146.1:coref,,,3:coref,,,,,,,,,,,
+proximal,,,proximal,,,,,,,,,,BI_1,
+,,,,,,,,,,,,,,
+%affirmative
+*compound:[4.1/4.2:r6] compound:[4.2/4.3:r6] compound:[14.1/14.2:r6] [*conj:[6,7,8] conj:[9,10,11,12,13,14,15]
+

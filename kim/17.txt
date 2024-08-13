@@ -1,0 +1,10 @@
+#rAma ne kisase eka praSna puCA?
+rAma,kim,eka_1,prasna_1,pUCa_1-yA_1 
+1,2,3,4,5 
+per,,,, 
+[m sg a],[m sg a],,[- sg a], 
+5:k1,5:k2g,4:card,5:k2,0:main 
+,,,, 
+,,,, 
+,,,, 
+interrogative

@@ -1,0 +1,10 @@
+#हम क्यों पढ़ते हैं?
+speaker,kim,paDZa_1-wA_hE_1
+1,2,3
+anim,,
+[m pl u],,
+3:k1,3:rh,0:main
+,,
+,,
+,,
+interrogative

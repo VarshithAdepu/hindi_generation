@@ -1,0 +1,10 @@
+"#आप नदी, जलप्रपात, वर्षा की रिमझिम, अपने नल के जल के बारे में सोचने लगते हैं ।
+addressee,naxI_1,jalaprapAwa_1,varRA_1,rimaJima_1,apanA,nala_1,jala_1,soca_1-nA_lagawA_hE_1
+1,2,3,4,5,6,7,8,9
+anim,,,,,,,mass,
+[m pl m],[- sg a],[- sg a],[- sg a],[- sg a],,[- sg a],[- pl a],
+8:k1,8:r6,8:r6,5:r6,8:r6,7:r6,8:r6,9:k7,0:main
+,,,,,1:coref,,,
+,,,,,,,,
+,,,,,,,,
+affirmative

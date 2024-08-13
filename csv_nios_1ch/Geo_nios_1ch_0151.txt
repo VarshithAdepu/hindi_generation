@@ -1,0 +1,11 @@
+#जैव भूगोल को पादप या वनस्पति भूगोल, जन्तु भूगोल और मानव पारिस्थितिकी के रूप में विभाजित किया जा सकता है ।
+jEva_1           3        -         -         1:mod   -    -    -
+BUgola_1        1        -        -        8:k2        -        -        -
+pAxapa_2+bUgola_1        2        -        -        7:r6   -        -        -
+vanaspawi_1+bUgola_1        4        -        -        7:r6        -        -        -
+janwu_2+bUgola_1        5        -        -        7:r6        -        -        -
+manav_3+pArisWiwikI_1        6        -        -        7:r6        -        -        -
+rUpa_1        7        -        -        8:k7        -        -        -
+viBAjiwa+kara_1-yA_jA_sakawA_hE_1        8        -        -        0:main        -        -        -
+%pass_affirmative
+*compound:[2.1/2.2:r6] compound:[4.1/4.2:r6] compound:[5.1/5.2:r6] compound:[6.1/6.2:r6] conj:[4,5,6] disjunct:[2,3]

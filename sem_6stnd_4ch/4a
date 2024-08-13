@@ -1,0 +1,11 @@
+#हम पृथ्वी के केवल एक भाग जैसे- अपने देश, राज्यों, जिलों, शहरों तथा गाँवों के बारे मे अध्ययन करना चाहते हैं
+speaker,pqWvI,eka_1,BAga_2,apanA,xeSa_1,rAjya_7,jilA_3,Sahara_2,gAzva_1,aXyayana+kara_2,cAha_8-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12
+anim,,,,,,,,,,,
+[- pl u],[- sg a],,[- sg a],,[- sg a],[- pl a],[- pl a],[- pl a],[- pl a],,
+12:k1,4:r6,4:card,11:k7,6:r6,4:re,4:re,4:re,4:re,4:re,12:k2,0:main
+,,,,1:coref,,,,,,,
+,,kevala,,,,,,,,,
+,,,,,,,,,,,
+affirmative
+conj:[6,7,8,9,10]

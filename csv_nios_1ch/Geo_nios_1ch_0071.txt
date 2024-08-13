@@ -1,0 +1,14 @@
+#हार्टशॉर्न ने भूगोल को एक ऐसे विज्ञान के रूप में परिभाषित किया जो क्षेत्रीय विभिन्नताओं का अध्ययन करता है ।
+hArtaSoYrna        1        per/male        -        7:k1        -        -        -
+BUgola_1        2        -        -        7:k2        -        -        -
+$wyax   3        -        -        4:dem        -        proximal        -
+prakAra_1   4        -        -        7:krvn   -        -        -
+vijFAna_1        5        -        -        6:r6        -        -        -
+rUpa_1        6        -        -        7:k7        -        -        -
+pariBARiwa+kara_1-yA_1        7        -        -        0:main        -        -        -
+$yax        8        -        -        11:k1        5:coref        -        -
+kRewrIya_1        9        -        -        10:mod        -        -        -
+viBinnawA_1        10        -        pl        11:k2        -        -        -
+aXyayana+kara_2-wA_hE_1        11        -        -        5:rcelab  -        -        -
+%affirmative
+*nil

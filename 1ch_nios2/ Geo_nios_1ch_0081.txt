@@ -1,0 +1,16 @@
+<sent_id= Geo_nios_1ch_0081>
+#किसी स्थान की संस्कृति, जनसंख्या, वहाँ के सामाजिक, आर्थिक व राजनीतिक पक्षों की गतिशीलता का वर्णन करता है ।
+koi	1	-	-	2:mod	-	-	-
+sWAna_4	2	-	-	3:r6	-	-	-
+saMskqwi_1	3	-	-	11:k1	-	-	-
+janasaMKyA_1	4	-	-	11:k1	-	-	-
+$wyax	5	-	-	9:r6	2:coref	distal	-
+sAmAjika_1	6	-	-	9:mod	-	-	-
+ArWika_1	7	-	-	9:mod	-	-	-
+rAjanIwika_1	8	-	-	9:mod	-	-	-
+pakRa_4	9	-	pl	10:r6	-	-	-
+gawiSIlawA_1	10	-	-	11:k2	-	-	-
+varNana+kara_2-wA_hE_1	11	-	-	0:main	-	-	-
+%affirmative
+*conj:[3,4] conj:[6,7,8]
+</sent_id>

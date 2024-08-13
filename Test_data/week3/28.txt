@@ -1,0 +1,11 @@
+#चित्र में इस जल के वितरण को दर्शाया गया है ।
+ciwra_1,yaha,jala_1,viwaraNa_1,xarSA_1-yA_gayA_hE_1
+1,2,3,4,5
+,,mass,,
+[- sg a],,[- pl a],[- sg a],
+5:k7p,3:mod,4:r6,5:k2,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+

@@ -1,0 +1,49 @@
+4 frnd - 4a
+#अगर गांव में कुछ भी गलत होता था।
+gAzva_1,kuCa,galawa_1,ho_1-wA_WA_1
+1,2,3,4
+,,,
+,,,
+4:k7p,3:quant,4:k1,0:main
+,,,4b.3:AvaSyakawApariNAma
+,BI_3,,
+,,,
+%affirmative
+*nil
+
+in above galawa_1 need to be 'adj' but it is identified as 'n'
+^galawa<cat:n><case:d><gen:m><num:s>$
+
+if word_data_list[4] != '':
+        rel = word_data_list[4].strip().split(':')[1]
+        if rel in constant.ADJECTIVE_DEPENDENCY:
+            return True
+        if word_data_list[3] == '' and rel not in constant.ADJECTIVE_DEPENDENCY and word_data_list[5] != '0:main':
+            word_data_list[3] = 'sg'
+        if rel == 'k1s' and word_data_list[3] == '': # k1s and no GNP -> adj
+            return True
+
+        if word_data_list[5] != '':
+            if ':' in word_data_list[5]:
+                coref = word_data_list[5].strip().split(':')[1]
+                if rel == 'r6' and coref == 'coref': # for words like apanA
+                    return True
+
+
+#तो सब लोग यह सोचते थे
+saba_1,loga_1,wyax,soca_1-wA_WA_1
+1,2,3,4
+,anim,,
+,pl,,
+2:quant,4:k1,4:k2,0:main
+,,4c.5:coref,
+,,proximal,
+,,,
+%affirmative
+*nil
+
+saba_1 has no postposition so it case is changed to 'd' from 'o' in postposition _new
+
+^saba<cat:p><case:d><parsarg:0><gen:m><num:s><per:a>$ ^loga<cat:n><case:d><gen:m><num:p>$ ^yaha<cat:p><case:d><parsarg:0><gen:m><num:s><per:a>$ ^soca<cat:v><gen:m><num:p><per:a><tam:wA>$ ^WA<cat:v><gen:m><num:p><per:a><tam:WA>$
+
+<e><p><l></l><r><s n="cat:p"/><s n="case:o"/><s n="parsarg:0"/><s n="gen:m"/><s n="num:s"/><s n="per:a"/></r></p></e>

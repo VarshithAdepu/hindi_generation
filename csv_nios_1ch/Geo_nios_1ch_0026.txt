@@ -1,0 +1,8 @@
+#भूगोल इस प्रकार के प्रतिरूपों का अध्ययन करता है ।
+BUgola_1        1        -   -     5:k1        -        -        -
+$wyax        2        -        -        3:dem        -        proximal        -
+prakAra_8        3        -        -        4:r6        -        -        -
+prawirUpa_11        4        -        pl        5:k2        -        -        -
+aXyayana+kara_2-wA_hE_1        5        -        -        0:main        -        -        -
+%affirmative
+*nil
