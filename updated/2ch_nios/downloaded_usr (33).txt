@@ -1,0 +1,20 @@
+<segment_id=Geo_nios_2ch_0025>
+#मनुष्य ने खनन एवम वेधन क्रियाओं द्वारा इसके कुछ ही किलोमीटर तक के आन्तरिक भाग को प्रत्यक्ष रूप से देखा है ।
+manuRya_1	1	anim	pl	12:k1	-	-	-	-
+Kanana_1	14	-	-	-	-	-	-	13:mod
+kriyA_1	2	-	-	-	-	-	-	13:head
+veXana_1	16	-	-	-	-	-	-	15:mod
+kriyA_1	3	-	-	-	-	-	-	15:head
+$wyax	5	-	-	7:r6	Geo_nios_2ch_0024a.3:coref	proximal	-	-
+kuCa_1	6	-	-	7:quant	-	hI_2	-	-
+kilomItara_1	7	-	-	9:r6	-	-	-	-
+Anwarika_1	8	-	-	9:mod	-	-	-	-
+BAga_1	9	-	-	12:k2	-	-	-	-
+prawyakRa_1	10	-	-	11:mod	-	-	-	-
+rUpa_1	11	-	-	12:krvn	-	-	-	-
+xeKa_5-yA_hE_1	12	-	-	0:main	-	-	-	-
+[compound_1]	13	-	-	12:k3	-	-	-	-
+[compound_2]	15	-	-	12:k3	-	-	-	-
+[conj_1]	17	-	-	-	-	-	-	-
+%affirmative
+</segment_id>

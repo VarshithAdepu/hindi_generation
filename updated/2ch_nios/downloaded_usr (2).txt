@@ -1,0 +1,7 @@
+<segment_id=Geo_nios_2ch_0003a>
+#आप यह भी जानते हैं ।
+$wyax	2	-	-	3:k2	Geo_nios_2ch_0003b.13:coref	proximal/BI_1	-	-
+$addressee	1	anim	pl	3:k1	-	respect	-	-
+jAna_10 (know_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>

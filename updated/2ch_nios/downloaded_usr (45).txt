@@ -1,0 +1,9 @@
+<segment_id=Geo_nios_2ch_0036>
+#इसीलिये क्रोड को निफे (निकिल+फेरम, लोहा) कहते हैं ।
+koroda_1	1	ne	-	4:k2	-	-	-	-
+@niPe	2	-	-	4:k2s	-	-	-	-
+Nikila_1+Perama_1	3	-	-	2:rs	-	-	-	-
+lohA_1	5	-	-	-	-	-	-	-
+kaha_1-wA_hE_1	4	-	-	0:main	Geo_nios_2ch_0035.4:pariNAma	-	-	-
+%affirmative
+</segment_id>

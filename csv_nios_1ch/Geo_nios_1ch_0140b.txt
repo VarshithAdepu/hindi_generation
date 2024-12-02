@@ -1,6 +1,0 @@
-#और वह उसकी अध्ययन करता है |
-$wyax        1        -        -        3:k1        Geo_nios_1ch_0140a.2:coref        distal        -
-$wyax        2        -        -        3:k2        Geo_nios_1ch_0140a.4:coref        proximal        -
-aXyayana+kara_2-wA_hE_1        3        -        -        0:main        -        -        -
-%affirmative
-*nil

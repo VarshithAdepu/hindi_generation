@@ -1,7 +1,0 @@
-#यह ज्ञान को विस्तृत करने का प्रयास करता है ।
-$wyax        1        -        -        4:k1        Geo_nios_1ch_0001.2:coref        proximal        -
-jFAna_4        2        -        -        3:k2        -        -        -
-viswqwa+kara_1        3        -        -        4:k2        -        -        -
-prayAsa+kara_1-wA_hE_1        4        -        -        0:main        -        -        -
-%affirmative
-*nil

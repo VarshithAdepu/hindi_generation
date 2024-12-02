@@ -1,0 +1,90 @@
+<sent_id= Geo_nios_9ch_0001a>
+#पृथ्वी एक अनोखा ग्रह है।
+pqWvI_1 1 - - 4:k1 - - - -
+eka_2 5 - - 3:quant - - - - 
+anoKA_7 2 - - 3:mod - - - -
+graha_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id= Geo_nios_9ch_0001b>
+#क्योंकि इस ग्रह पर ही जीवन पाया जाता है।
+$wyax 1 - - 2:dem - - - -
+graha_1 2 - - 4:k7p - hI_1 - -
+jIvana_1 3 - - 4:k2 - - - -
+pA_13-yA_jA_wA_hE_1 4 - - 0:main Geo_nios_9ch_0001a.4:kAryakAraNa - - -
+%pass_affirmative
+</sent_id>
+<sent_id= Geo_nios_9ch_0002>
+#जीवन के लिए आवश्यक दशाओं में से वायु का विशेष स्थान है।
+jIvana_1 1 - - 7:rt - - - -
+AvaSyaka_1 2 - - 3:mod - - - -
+xaSA_1 3 - pl 4:rn - - - -
+vAyu_1 4 - - 6:r6 - - - -
+viSeRa_1 5 - - 6:mod - - - -
+sWAna_1 6 - - 7:k1 - - - -
+hE_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id= Geo_nios_9ch_0003>
+#वायु अनेक गैसों का मिश्रण है। - - -
+vAyu_1 1 - - 5:k1 - - - -
+aneka_1 2 - - 3:mod - - - -
+gEsa_1 3 - pl 4:r6 - - - -
+miSraNa_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id= Geo_nios_9ch_0004>
+#वायु पृथ्वी को चारों ओर से घेरे हुए है।
+vAyu_1 1 - - 5:k1 - - - -
+pqWvI_1 2 - - 4:k2 - - - -
+cAroM+ora_1 3 - pl 4:krvn - - - -
+Gera_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id= Geo_nios_9ch_0005>
+#वायु 	के 	इस 	घेरे 	को 	ही 	वायुमण्डल 	कहते 	हैं।
+vAyu_1	1	-	-	3:r6	-	-	-	-
+$wyax    	2	-	-	3:dem	-	proximal	-	-
+GerA_1	3	-	-	5:k2	-	hI_2	-	-
+vAyumaNdala_1	4	-	-	5:k2s	-	-	-	-
+kaha_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id= Geo_nios_9ch_0006>
+#वायुमण्डल हमारी पृथ्वी का अभिन्न अंग है जो पृथ्वी के गुरुत्वाकर्षण के कारण पृथ्वी से जुडा हुआ है।
+vAyumaNdala_1 1 - - 6:k1 - - - -
+$speaker 2 anim pl 3:r6 - - - -
+pqWvI_1 3 - - 5:r6 - - - -
+aBinna_1 4 - - 5:mod - - - -
+aMga_3 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+$yax 7 - - 11:k1 1:coref - - -
+pqWvI_1 8 - - 9:r6 - - - -
+guruwvAkarRaNa_1 9 - - 11:rh - - - -
+pqWvI_1 10 - - 12:k1as - - - -
+judZa_1 12 - kqwpft 11:k1s - - - -
+hE_1-pres 11 - - 1:rcelab - - - -
+%affirmative
+</sent_id>
+<sent_id= Geo_nios_9ch_0007>
+#यह        जीवन        के        लिए        हानिकारक        पराबैंगनी        किरणों        को        रोकने        तथा        जीवन        के        लिए        अनुकूल        तापमान        बनाए        रखने        में        सहायक        है।
+$wyax        1        -        -        11:k1         Geo_nios_9ch_0006.1:coref        proximal        -        -
+jIvana_1        2        -        -        11:rt        -        -        -        -
+hAnikAraka_1        3        -        -        4:mod        -        -        -        -
+parAbEMganI_1        13        -        -        4:mod        -        -        -        -
+kiraNa_1        4        -        pl        5:k2        -        -        -        -
+roka_1            5        -        -        -        -        -        -        12:op1
+jIvana_1        6        -        -        9:rt        -        -        -        -
+anukUla_4        7        -        -        7:mod        -        -        -        -
+wApamAna_1        8        -        -        9:k1        -        -        -        -
+bana_1        9        -        causative        14:rpk        -        -        -        -
+raKa_1        14        -        -        -        -        -        -        12:op2
+sahAyaka_1        10        -        -        11:k1s        -        -        -        -
+hE_1-pres        11        -        -        0:main        -        -        -        -
+[conj_1]        12        -        -        11:k7        -        -        -        -
+%affirmative
+</sent_id>

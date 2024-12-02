@@ -1,4 +1,0 @@
-#अधिवास भूगोल ।
-aXivAsa_1+BUgola_1        1        -        -        0:main        -        -        -
-%term
-*compound:[1.1/1.2:r6]

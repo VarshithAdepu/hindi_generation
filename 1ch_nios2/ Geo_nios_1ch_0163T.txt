@@ -1,6 +1,0 @@
-<sent_id= Geo_nios_1ch_0163T>
-#जनसंख्या भूगोल ।
-janasaMKyA_1+BUgola_1   	1	-	-	0:main	-	-	-
-%term
-*compound:[1.1/1.2:r6]
-</sent_id>

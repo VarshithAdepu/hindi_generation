@@ -1,0 +1,194 @@
+[
+    {
+        "text": "यद्यपि राम बहुत बीमार था",
+        "usr_id": "Test_1_0008",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "rAma",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 2,
+                "concept": "bahuwa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "bImAra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "hE_1",
+                "tam": "pres",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "sent_2.3",
+                "discourse_rel": "vyaBicAra"
+            }
+        ]
+    },
+    {
+        "text": "फिर भी वह स्कूल गया।",
+        "usr_id": "Test_1_0009",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "sent_1.1",
+                "discourse_rel": "coref",
+                "speaker_view": "distal"
+            },
+            {
+                "index": 2,
+                "concept": "skUla_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "jA_1",
+                "tam": "yA_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "तुम घर आओ",
+        "usr_id": "Test_1_0010",
+        "sent_type": "imperative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$addressee",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male"
+            },
+            {
+                "index": 2,
+                "concept": "Gara_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "A_1",
+                "tam": "o_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "sent_2.2",
+                "discourse_rel": "AvaSyakawApariNAma",
+                "speaker_view": "nahIM"
+            }
+        ]
+    },
+    {
+        "text": "नहीं तो मैं जा रही हूँ",
+        "usr_id": "Test_1_0011",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$speaker",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/female"
+            },
+            {
+                "index": 2,
+                "concept": "jA_1",
+                "tam": "0_rahA_hE_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "बालकनी के साथ खिड़कियों से भी धूल आ रही है।",
+        "usr_id": "Test_1_0012",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "bAlakanI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 2,
+                "concept": "KidZakI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl",
+                "speaker_view": "BI_1"
+            },
+            {
+                "index": 3,
+                "concept": "XUla_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "A_1",
+                "tam": "0_rahA_hE_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    }
+]

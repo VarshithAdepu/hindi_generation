@@ -1,7 +1,0 @@
-#आपने यह अवश्य ध्यान दिया होगा |  
-$addressee        1        anim        pl        4:k1        -        respect    -
-$wyax        2        -        -        4:k2         Geo_nios_1ch_0022b.4:coref        -    -
-avaSya_5        3        -        -        4:vkvn        -        -    -
-XyAna+xe_2-yA_hogA_1        4        -        -        0:main        -        -          -
-%affirmative
-*nil

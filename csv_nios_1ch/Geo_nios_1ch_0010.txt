@@ -1,6 +1,0 @@
-#भूगोल की अध्ययन विधि परिवर्तित होती रही है ।
-BUgola_1        1        -        -        2:r6        -        -        -
-aXXyayana_1+viXi_1        2        -        -        3:k1        -        -        -
-parivarwiwa+ho_2-wA_rahA_hE_1        3        -        -        0:main        -        -        -
-%affirmative
-*compound:[2.1/2.2:rt]

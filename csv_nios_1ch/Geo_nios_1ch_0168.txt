@@ -1,8 +1,0 @@
-#मानव भूगोल भूतल और मानव समाज के संबंधों का वर्णन करता है ।   
-mAnava_3+BUgola_1        1        -        -        5:k1        -        -    -
-BUwala_1        2        -        -        4:r6        -        -    -
-mAnava_3+samAja_1        3        -        -        4:r6        -        -    -
-saMbaMXa_1        4        -        pl        5:k2        -        -    -
-varNana+kara_1-wA_hE_1        5        -        -        0:main        -        -    -
-%affirmative
-*compound:[1.1/1.2:r6] compound:[3.1/3.2:r6] conj:[2,3]

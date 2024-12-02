@@ -1,0 +1,14 @@
+<segment_id=Geo_nios_2ch_0011>
+#हमारे लिए अत्यंत महत्वपूर्ण मृदा का निर्माण भी एक सीमा तक इन्हीं प्रक्रियाओं द्वारा होता है ।
+$speaker	1	anim	pl	9:rt	-	-	-	-
+awyaMwa_1	2	-	-l	3:intf	-	-	-	-
+mahawvapUrNa_1	3	-	-	4:mod	-	-	-	-
+mqxA_1	4	-	-	9:k2	-	BI_1	-	-
+eka+sImA+waka_1	5	-	-	9:vkvn	-	-	-	-
+$wyax	7	-	-	8:dem	-	proximal	-	-
+prakriyA_1	8	-	pl	9:k3	-	-	-	-
+nirmANa_1	10	-	-	-	-	-	-	9:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
